@@ -1,2 +1,7 @@
 http:
   port: '8081'
+  
+db:
+  url: 'jdbc:postgresql://oregon-postgres.render.com:5432/gouthamdb_trqw'
+  username: 'gouthamdb_trqw_user'
+  password: 'HKnLlHQCrfjnGzq8jUgnvwwSUQSwRtRo'
